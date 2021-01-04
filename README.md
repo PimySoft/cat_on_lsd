@@ -1,9 +1,13 @@
 # cat_on_lsd
 Since my cat died, I've decided to upload her consciousness.
+Please feel free to share ideas for the data.json file.
 
-
-. In the data.json, structures are sentences with blank spaces such as :s: for subjects, :n: for nouns, :a: for actions, :l: for locations.
+#Data.json
+. Please feel free to share ideas to enrich this.
+. Structures are sentences with blank spaces such as :s: for subjects, :n: for nouns, :a: for actions, :l: for locations.
 . These sentences will be formed by swapping the above symbols with random elements from subjects, nouns, actions, and locations.
+
+#Posting to twitter
 . There are 5 ways to post a tweet:
     To tweet a random follower: tweet_a_random_follower()
     To tweet a random follower: tweet_a_friend()
