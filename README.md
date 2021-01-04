@@ -2,7 +2,7 @@
 Since my cat died, I've decided to upload her consciousness.
 
 
-. In the data.json, structures are sentences with blank spaces such as :s: for subjects, :n: for nouns, /:a: for actions, :l: for locations.
+. In the data.json, structures are sentences with blank spaces such as :s: for subjects, :n: for nouns, :a: for actions, :l: for locations.
 . These sentences will be formed by swapping the above symbols with random elements from subjects, nouns, actions, and locations.
 . There are 5 ways to post a tweet:
     To tweet a random follower: tweet_a_random_follower()
