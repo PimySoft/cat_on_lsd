@@ -1,5 +1,6 @@
 # cat_on_lsd
-Since my cat died, I've decided to upload her consciousness.
+
+Since my cat died, I've decided to upload her consciousness. Here she is: https://twitter.com/cat_on_LSD
 Please feel free to share ideas for the data.json file.
 
 #Data.json
