@@ -152,7 +152,7 @@ def post_random_type_of_tweet(times):
         times -= 1
         time.sleep(2)
 
-#post_random_type_of_tweet(10)
+post_random_type_of_tweet(10)
 #tweet_a_random_follower()
 #tweet_a_friend()
 #tweet()
