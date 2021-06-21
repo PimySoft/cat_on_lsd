@@ -133,16 +133,19 @@ def tweet_a_friend():
     print(tweet)
     #api.update_status(tweet)
 
-def tweet():
-    tweet = listToString(random_sentence())
-    print(tweet)
+def tweet(b):
+    a = 0
+    while a < b:
+        tweet = listToString(random_sentence())
+        a+=1
+        print(tweet)
     #api.update_status(tweet)
 
 def post_random_type_of_tweet(times):
     while times > 0:
         n = random.randint(1, 10)
         if n < 5:
-            tweet()
+            tweet(1)
         if 5 <= n < 9:
             tweet_a_random_follower()
         if n == 9:
@@ -152,9 +155,9 @@ def post_random_type_of_tweet(times):
         times -= 1
         time.sleep(2)
 
-post_random_type_of_tweet(10)
+#post_random_type_of_tweet(10)
 #tweet_a_random_follower()
 #tweet_a_friend()
-#tweet()
+tweet(10)
 #reply_to_a_notorious_status()
 
