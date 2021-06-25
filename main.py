@@ -2,6 +2,8 @@ import json
 import tweepy
 import random
 import time
+import pandas as pd
+import numpy as np
 
 # Authenticate to Twitter
 API_Key = "YOUR KEY"
@@ -135,10 +137,15 @@ def tweet_a_friend():
 
 def tweet(b):
     a = 0
+    list_of_tweets = []
     while a < b:
         tweet = listToString(random_sentence())
+        list_of_tweets.append(tweet)
         a+=1
         print(tweet)
+    generate_training_csv(list_of_tweets)
+
+
     #api.update_status(tweet)
 
 def post_random_type_of_tweet(times):
@@ -155,9 +162,18 @@ def post_random_type_of_tweet(times):
         times -= 1
         time.sleep(2)
 
+def generate_training_csv(list_of_tweets):
+    np_array = np.asarray(list_of_tweets)
+    DF = pd.DataFrame(np_array)
+    DF.to_csv("lsd_cat_trainint_set.csv")
+
 #post_random_type_of_tweet(10)
 #tweet_a_random_follower()
 #tweet_a_friend()
 tweet(10)
 #reply_to_a_notorious_status()
+
+
+
+
 
