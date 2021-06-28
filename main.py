@@ -142,7 +142,7 @@ def tweet(b):
         tweet = listToString(random_sentence())
         list_of_tweets.append(tweet)
         a+=1
-        print(tweet)
+        #print(tweet)
     generate_training_csv(list_of_tweets)
 
 
@@ -165,12 +165,12 @@ def post_random_type_of_tweet(times):
 def generate_training_csv(list_of_tweets):
     np_array = np.asarray(list_of_tweets)
     DF = pd.DataFrame(np_array)
-    DF.to_csv("lsd_cat_trainint_set.csv")
+    DF.to_csv("lsd_cat_training_set.csv")
 
 #post_random_type_of_tweet(10)
 #tweet_a_random_follower()
 #tweet_a_friend()
-tweet(10)
+tweet(100000)
 #reply_to_a_notorious_status()
 
 

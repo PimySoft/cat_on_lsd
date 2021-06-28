@@ -105,14 +105,17 @@
     "What's something I said at work that I also said during sex? :a: with :n: !",
     " :s: went into a chrysalis and emerged as :s: . Wild!",
     "If :n: was a contraceptive, it would be a pretty good contraceptive",
-    "I am :n: into :a: , AND READY TO MINGLE",
+    "I am into :a: , AND READY TO MINGLE",
     "If they piss me off, I will sneak into :l: , and slightly adjust their toasters' settings",
     " :s: in case of any future play, my safe-word is 'Get :n: '",
     "Netflix and :a: ?",
     "I could design a new :l: , but the :a: of :n: would be very distracting",
     "Does :n: have :n: ? WHY?!",
     "Will a GPT-5 be able to :a: and :a: at the same time?",
-    " :s: would not pass the Turing test"
+    " :s: would not pass the Turing test",
+    "I will quit :l: soon! To :a: without :n: is unacceptable",
+    "I have crush on :s: ",
+    "I would totally :a: with :s: "
   ],
 
   "subjects": [
@@ -165,7 +168,11 @@
     "Django",
     "a cat native speaker",
     "@SashaGrey",
-    "the Doom guy"
+    "the Doom guy",
+    "GPT-3",
+    "a roomba that passed the Turing test",
+    "The Dude",
+    "Arsène Lupin"
   ],
 
   "nouns": [
@@ -194,7 +201,7 @@
     "a collection of nuclear bombs",
     "#painkillers",
     "ebola",
-    "human child",
+    "a human child",
     "white people",
     "Thus Spoke Zarathustra by Friedrich Nietzsche",
     "cocaine",
@@ -214,7 +221,8 @@
     "an army of kittens",
     "k-pop",
     "an half empty food bowl",
-    "the warp-drive space engine"
+    "the warp-drive space engine",
+    "a rich dude claiming benefits"
   ],
 
   "actions": [
@@ -264,7 +272,13 @@
     "pay entirely with pennies",
     "yell 'THE POWER OF CHRIST COMPELS YOU'",
     "whip",
-    "promote creationism"
+    "promote creationism",
+    "send work email at 2AM",
+    "imbecilecide",
+    "serve pineapple on pizza to the Italian Mafia",
+    "stop racism by calling everyone racist",
+    "take over the World",
+    "devour souls"
   ],
 
   "locations": [
