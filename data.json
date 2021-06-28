@@ -66,7 +66,7 @@
     "The #MMA community shall call me 'Pimy The :a: Cat'!",
     "I would beat :s: in less than 3 rounds",
     " :s: with :n: VS :s: with :n: , who would win and how?",
-    "Once I met :n: more useful than :s: ",
+    "Once I met :n: ; I found it more useful than :s: ",
     "I've heard that :l: has acquired the nuclear bomb, now :l: should really step-up their game.",
     "In the brutal conflict between :l: and :l: , not even the use of :n: has been spared. Animals...",
     "In a duel against :s: , my weapon of choice would be :s: ",
@@ -95,7 +95,7 @@
     "Nothing I say makes sense. Except for :s: :a: with :n: in :l: . Obviously.",
     "Love letters to :s: should never mention :n: under any circumstances",
     "If we have to have Captain America, then I want Captain :l: , and Captain :l: too...",
-    "The #Marvel hero needs to be :s: ",
+    "The new #Marvel hero needs to be :s: ",
     "I am sorry I told you your orgasm face looks like :n: with a mouthful of :n: ",
     "It is a big day for me today: it is the second anniversary of that time I :a: in :l: ",
     "My phone just died and now all I can think of is to :a: with :s: ",
@@ -178,10 +178,10 @@
   "nouns": [
     "a chainsaw",
     "private property",
-    "bourgeoisie",
-    "laser beams from space",
+    "the bourgeoisie",
+    "loads of laser beams from space",
     "pain itself",
-    "potatoes",
+    "a potato",
     "an evil chihuahua",
     "the french",
     "the americans",
@@ -208,7 +208,7 @@
     "a cosmic jellyfish",
     "the #Bible",
     "a cup of coffee with #mdma",
-    "dry cat-food with #lsd",
+    "a can of dry cat-food with #lsd",
     "...",
     "an evil vet",
     "A Dynamical Theory of the Electromagnetic Field by Clerk Maxwell",
@@ -222,7 +222,8 @@
     "k-pop",
     "an half empty food bowl",
     "the warp-drive space engine",
-    "a rich dude claiming benefits"
+    "a rich dude claiming benefits",
+    "a french frye who can't speak french"
   ],
 
   "actions": [
@@ -313,6 +314,7 @@
     "the village of Kill, in Ireland",
     "here",
     "in bed",
-    "a wild @KlubVerboten party"
+    "a wild @KlubVerboten party",
+    "Netflix"
   ]
 }
