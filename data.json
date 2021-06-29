@@ -72,7 +72,7 @@
     "In a duel against :s: , my weapon of choice would be :s: ",
     "My dominance over :s: shall be affirmed when I will :a: ",
     "Nothing could stop a good :a: . Maybe :a: with :n: , but that would stop about anything",
-    "Why do people think that :s: could bead :s: ?!",
+    "Why do people think that :s: could beat :s: ?!",
     "If I could make a wish, I'd ask for :n: .",
     " ' :a: ' is not a good Dominatrix motto.",
     " :s: said they wanted to :a: after we broke up. I think I should break up with them more often.",
@@ -80,8 +80,8 @@
     "I like the way you :a: boy",
     "'I am :n: ' is NOT a good Tinder punch line. Or maybe it is...",
     "You had me at ' :n: '",
-    "There's only three things you can do in the joint, kid: :a: , :a: , or :a:. I :a:",
-    "The saddest thing in life is :n: wasted",
+    "There's only three things you can do in the joint: :a: , :a: , or :a: . I :a: ",
+    "The saddest thing in life is wasting :n: ",
     "It is great to be Catholic and go to confession; you can :a: over again every week",
     "What makes :s: more human than me? I love :n: too.",
     "I wanted to go outside to :a: , so I went to :l: .",
@@ -100,22 +100,22 @@
     "It is a big day for me today: it is the second anniversary of that time I :a: in :l: ",
     "My phone just died and now all I can think of is to :a: with :s: ",
     "I just learned from :s: that :n: wasn't originally used to :a: ",
-    "Ghosts of gen Z will :a: to hunt people",
+    "Ghosts of gen-Z will :a: to hunt people",
     "Searching for :n: in :l: is a form of self-therapy",
     "What's something I said at work that I also said during sex? :a: with :n: !",
     " :s: went into a chrysalis and emerged as :s: . Wild!",
     "If :n: was a contraceptive, it would be a pretty good contraceptive",
-    "I am into :a: , AND READY TO MINGLE",
+    "I like to :a: , AND READY TO MINGLE",
     "If they piss me off, I will sneak into :l: , and slightly adjust their toasters' settings",
-    " :s: in case of any future play, my safe-word is 'Get :n: '",
+    " :s: ! In case of any future play, my safe-word is 'Get :n: '",
     "Netflix and :a: ?",
-    "I could design a new :l: , but the :a: of :n: would be very distracting",
+    "I could design a new :l: , but to :a: would be part of it",
     "Does :n: have :n: ? WHY?!",
     "Will a GPT-5 be able to :a: and :a: at the same time?",
     " :s: would not pass the Turing test",
     "I will quit :l: soon! To :a: without :n: is unacceptable",
     "I have crush on :s: ",
-    "I would totally :a: with :s: "
+    "I could totally :a: with :s: "
   ],
 
   "subjects": [
@@ -166,13 +166,15 @@
     "Samuel L. Jackson",
     "Catwoman",
     "Django",
-    "a cat native speaker",
     "@SashaGrey",
     "the Doom guy",
     "GPT-3",
     "a roomba that passed the Turing test",
     "The Dude",
-    "Arsène Lupin"
+    "Arsène Lupin",
+    "a crazy rich asian",
+    "a native cat speaker",
+    "Rocco Siffredi"
   ],
 
   "nouns": [
@@ -279,7 +281,8 @@
     "serve pineapple on pizza to the Italian Mafia",
     "stop racism by calling everyone racist",
     "take over the World",
-    "devour souls"
+    "devour souls",
+    "invade Russia"
   ],
 
   "locations": [
@@ -315,6 +318,7 @@
     "here",
     "in bed",
     "a wild @KlubVerboten party",
-    "Netflix"
+    "Netflix",
+    "Russia"
   ]
 }
