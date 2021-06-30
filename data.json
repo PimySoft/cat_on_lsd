@@ -115,7 +115,15 @@
     " :s: would not pass the Turing test",
     "I will quit :l: soon! To :a: without :n: is unacceptable",
     "I have crush on :s: ",
-    "I could totally :a: with :s: "
+    "I could totally :a: with :s: ",
+    "What idiot called it :n: ? It is :n: ",
+    "Can I use a :n: to :a: ? No? \nThat's why we can't have nice things.",
+    "I value :s: as a person, not as :n: . Not today at least.",
+    "To :a: is a valid alternative to :a: ",
+    "Shout-out to :s: for learning how to :a: so fast.",
+    "Shout-out to :s: for that time they visited :l: for 48 hours, and survived.",
+    "Honeymoon in :l: ? Not without :n: ",
+    "Once the citizens of :l: kidnapped me and asked for :n: as ransom. Luckily :s: had plenty of that and I was free to :a: within 48 hours."
   ],
 
   "subjects": [
@@ -145,7 +153,6 @@
     "Karl Marx",
     "Leon Trotsky",
     "Sigmund Freud",
-    "Alessandro Barbero",
     "Bob Marley",
     "Barbie",
     "Elvis",
@@ -203,7 +210,6 @@
     "a collection of nuclear bombs",
     "#painkillers",
     "ebola",
-    "a human child",
     "white people",
     "Thus Spoke Zarathustra by Friedrich Nietzsche",
     "cocaine",
@@ -225,13 +231,17 @@
     "an half empty food bowl",
     "the warp-drive space engine",
     "a rich dude claiming benefits",
-    "a french frye who can't speak french"
+    "a french frye who can't speak french",
+    "a golden diamond",
+    "the new kinky pokemon",
+    "an oversized strap-on",
+    "some LSD"
   ],
 
   "actions": [
     "fight aliens",
     "get married",
-    "hump furiously",
+    "hump",
     "take a class of #ninjitsu",
     "move on to live #happilyEverAfter",
     "be nowhere to be seen",
@@ -282,7 +292,12 @@
     "stop racism by calling everyone racist",
     "take over the World",
     "devour souls",
-    "invade Russia"
+    "invade Russia",
+    "walk on a keyboard and hit Enter",
+    "be Marxist",
+    "be communist",
+    "use #corn instead of #porn to avoid censorship",
+    "eat the rich"
   ],
 
   "locations": [
@@ -316,7 +331,7 @@
     "Gogogogo in Madagascar",
     "the village of Kill, in Ireland",
     "here",
-    "in bed",
+    "bed",
     "a wild @KlubVerboten party",
     "Netflix",
     "Russia"
