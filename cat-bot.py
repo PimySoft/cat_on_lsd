@@ -144,8 +144,6 @@ def tweet(b):
         a+=1
         #print(tweet)
     generate_training_csv(list_of_tweets)
-
-
     #api.update_status(tweet)
 
 def post_random_type_of_tweet(times):
@@ -170,7 +168,7 @@ def generate_training_csv(list_of_tweets):
 #post_random_type_of_tweet(10)
 #tweet_a_random_follower()
 #tweet_a_friend()
-tweet(100000)
+tweet(300000)
 #reply_to_a_notorious_status()
 
 
