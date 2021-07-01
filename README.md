@@ -1,8 +1,16 @@
-# cat_on_lsd
+# cat_on_lsd the mental cat-AI
 
-Since my cat died, I've decided to upload her consciousness. Here she is: https://twitter.com/cat_on_LSD
+Since my cat died, I've decided to upload her consciousness. She was a total maniac. Here she is: https://twitter.com/cat_on_LSD
 
-Please feel free to share ideas for the data.json file.
+
+# ai-cat.py
+This picks from a csv file which sentences were generated with a cat-AI. The cat AI was trained with FastAI.
+. FastAI makes it easy to retrain a model based on Wikipedia. This was done on a dataset of 300.000 sentences generated with cat-bot.py
+. While posting with the cat-bot gave completely random tweets, the cat-AI can respect some patterns. For instance, when making a joke about Marx, it is very likely to make it about Capitalism.
+. Fai-cat.py at the moment isn't using any AI-model. On PythonAnywhere it is just using a csv generated with an AI-model (cat-AI).
+
+# cat-bot.py 
+Some lines of code to generate random silly tweets. This was used to generate a dataset to train cat-AI.
 
 #Data.json
 . Please feel free to share ideas to enrich this.
