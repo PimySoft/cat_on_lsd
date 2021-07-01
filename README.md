@@ -1,7 +1,6 @@
-# cat_on_lsd the mental cat-AI
+# cat_on_lsd the mental FASTAI-CAT
 
 Since my cat died, I've decided to upload her consciousness. She was a total maniac. Here she is: https://twitter.com/cat_on_LSD
-
 
 # ai-cat.py
 This picks from a csv file which sentences were generated with a cat-AI. The cat AI was trained with FastAI.
