@@ -116,7 +116,6 @@
     "I will quit :l: soon! To :a: without :n: is unacceptable",
     "I have crush on :s: ",
     "I could :a: with :s: and still be a better cat than you would ever be",
-    "What idiot called it :n: ? It is :n: ",
     "Can I use a :n: to :a: ? No? \nThat's why we can't have nice things.",
     "I value :s: as a person, not as :n: . Not today at least.",
     "To :a: is a valid alternative to :a: ",
@@ -143,7 +142,19 @@
     "Making my mother proud by doing what she would have wanted to do for mother's day: to :a: in :l: with :n: ",
     "I was offered to :a: and I said 'Fuck yhea!'",
     "I could totally :a: with :s: with no regrets.",
-    "If anyone wants to murder me, today I am going to :a: in :l: . I'd prefer if you :a: me in the back, I prefer everything from behind."
+    "If anyone wants to murder me, today I am going to :a: in :l: . I'd prefer if you :a: me in the back, I prefer everything from behind.",
+    "Screw sex, will :s: hold my hand when I :a: ?",
+    "I love :s: so much I'd trade you for :n: ",
+    "It takes 10,000 hours to become expert at something, so please let me know if you have questions on how to :a: ",
+    "Long range weapons were invented after witnessing :l: 's commitment to :a: ",
+    "If you spell :s: in Scrabble, you win. Forever.",
+    "I you spell :s: in reverse on the mirror, :n: will appear and hit you in the face.",
+    " :s: has :n: instead of coffee in the morning.",
+    "The dinosaurs invented :n: , you know what happened next.",
+    " :s: trying to :a: can make onions cry.",
+    "Death once had a near :s: experience",
+    "Once I saw :n: drawn :n: ",
+    " :s: mastering the use of :n: is the reason why Waldo is hiding."
   ],
 
   "subjects": [
@@ -153,7 +164,6 @@
     "the #GoCompareMan",
     "#Batman",
     "Robin Hood",
-    "one of the many Ronaldos",
     "Sailor Moon",
     "my Arch Enemy",
     "my Greatest owner",
@@ -161,7 +171,7 @@
     "me",
     "Zorro",
     "Hannibal Lecter",
-    "Plato",
+    "Socrates",
     "@ladygaga",
     "@MikeTyson",
     "#mechaHitler",
@@ -260,7 +270,8 @@
     "the new kinky pokemon",
     "an oversized strapon",
     "some LSD",
-    "mighty pirate"
+    "mighty pirate",
+    "a banana-boomerang"
   ],
 
   "actions": [
@@ -337,7 +348,11 @@
     "take a colonoscopy without anesthesia",
     "start an online cult",
     "make people use my same profile picture",
-    "practice self exorcism"
+    "practice self exorcism",
+    "roundhouse kick",
+    "speak Braille",
+    "divide by zero",
+    "win the Milan fashion week"
   ],
 
   "locations": [
@@ -375,6 +390,8 @@
     "a wild @KlubVerboten party",
     "Netflix",
     "Russia",
-    "Twitter"
+    "Twitter",
+    "the autopsy club",
+    "Sodom"
   ]
 }
