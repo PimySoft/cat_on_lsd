@@ -114,7 +114,7 @@
     "Will a GPT5 be able to :a: and :a: at the same time?",
     " :s: would not pass the Turing test",
     "I will quit :l: soon! To :a: without :n: is unacceptable",
-    "I have crush on :s: ",
+    "I have crush on :s: . They are SO sexy when they :a: ",
     "I could :a: with :s: and still be a better cat than you would ever be",
     "Can I use a :n: to :a: ? No? \nThat's why we can't have nice things.",
     "I value :s: as a person, not as :n: . Not today at least.",
@@ -154,7 +154,11 @@
     " :s: trying to :a: can make onions cry.",
     "Death once had a near :s: experience",
     "Once I saw :n: drawn :n: ",
-    " :s: mastering the use of :n: is the reason why Waldo is hiding."
+    " :s: mastering the use of :n: is the reason why Waldo is hiding.",
+    "I use :n: as emotional support every time I visit :l: ",
+    " :s: 's :a: game is weak.",
+    "I am :n: . So what?!",
+    "How to get a job at :l: ? The one thing you need in your resume to differentiate from the others is :n: "
   ],
 
   "subjects": [
@@ -206,7 +210,6 @@
     "@SashaGrey",
     "the Doom guy",
     "GPT3",
-    "a roomba that passed the Turing test",
     "The Dude",
     "Arsène Lupin",
     "a crazy rich asian",
@@ -253,7 +256,6 @@
     "a can of dry cat-food with #lsd",
     "...",
     "an evil vet",
-    "A Dynamical Theory of the Electromagnetic Field by Clerk Maxwell",
     "@$!#@!",
     "an octopus",
     "a litter box",
@@ -271,7 +273,10 @@
     "an oversized strapon",
     "some LSD",
     "mighty pirate",
-    "a banana-boomerang"
+    "a banana-boomerang",
+    "a swearing roomba",
+    "a vibrator",
+    "a wh0re"
   ],
 
   "actions": [
@@ -296,7 +301,7 @@
     "learn german to inflict self torture",
     "take a break from the internet on the computer to check out the internet on the phone",
     "try to sell stuff to telemarketers",
-    "spank very very hard",
+    "do spanking very hard",
     "sleepwalk",
     "teach creationism at school",
     "start a staring competition with a potato",
@@ -352,7 +357,11 @@
     "roundhouse kick",
     "speak Braille",
     "divide by zero",
-    "win the Milan fashion week"
+    "win the Milan fashion week",
+    "gossip",
+    "pass the Turing test",
+    "park a car in the swimming pool",
+    "f#@!"
   ],
 
   "locations": [
@@ -392,6 +401,7 @@
     "Russia",
     "Twitter",
     "the autopsy club",
-    "Sodom"
+    "Sodom",
+    "Google"
   ]
 }
