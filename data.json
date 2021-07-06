@@ -157,8 +157,13 @@
     " :s: mastering the use of :n: is the reason why Waldo is hiding.",
     "I use :n: as emotional support every time I visit :l: ",
     " :s: 's :a: game is weak.",
-    "I am :n: . So what?!",
-    "How to get a job at :l: ? The one thing you need in your resume to differentiate from the others is :n: "
+    "Today I am :n: , so what?!",
+    "How to get a job at :l: ? The one thing you need in your resume to differentiate from the others is :n: ",
+    "We :a: in :l: , then :a:, and then take over the World!",
+    "It all got a little intense this morning in :l: , :s: and :s: decided to play with :n: ",
+    "If you could :a: with someone, who would that be?",
+    "To :a: with :n: is basically terrorism if done anywhere other than :l: ",
+    "In :l: people pay you to :a: "
   ],
 
   "subjects": [
@@ -218,7 +223,12 @@
     "@morgan_freeman",
     "Che Guevara",
     "the dead zombie pirate LeChuck",
-    "@Chunkysdead"
+    "@Chunkysdead",
+    "@joerogan",
+    "Trump",
+    "@BarackObama",
+    "@POTUS",
+    "Spock"
   ],
 
   "nouns": [
@@ -251,10 +261,10 @@
     "Thus Spoke Zarathustra by Friedrich Nietzsche",
     "cocaine",
     "a cosmic jellyfish",
-    "the #Bible",
+    "the Bible",
     "a cup of coffee with #mdma",
     "a can of dry cat-food with #lsd",
-    "...",
+    "_____",
     "an evil vet",
     "@$!#@!",
     "an octopus",
@@ -276,7 +286,13 @@
     "a banana-boomerang",
     "a swearing roomba",
     "a vibrator",
-    "a wh0re"
+    "a wh0re",
+    "saber sword",
+    "a screwdriver",
+    "a cow",
+    "a fake passport",
+    "a chicken",
+    "some manners"
   ],
 
   "actions": [
@@ -346,7 +362,6 @@
     "terrorize the South Seas",
     "torture the living!",
     "fight like a dairy farmer",
-    "a cow",
     "hold breath for 10 minutes",
     "catfish",
     "marry Bill Gates",
@@ -355,13 +370,15 @@
     "make people use my same profile picture",
     "practice self exorcism",
     "roundhouse kick",
-    "speak Braille",
+    "speak braille",
     "divide by zero",
     "win the Milan fashion week",
     "gossip",
     "pass the Turing test",
     "park a car in the swimming pool",
-    "f#@!"
+    "f#@!",
+    "count to infinite (twice)",
+    "clingfilm someone to a lampost"
   ],
 
   "locations": [
@@ -392,8 +409,7 @@
     "Bat Cave",
     "the very safe French town of Condom",
     "Disappointment Island in New Zeland",
-    "Gogogogo in Madagascar",
-    "the village of Kill, in Ireland",
+    "Kill (village in Ireland)",
     "here",
     "bed",
     "a wild @KlubVerboten party",
@@ -402,6 +418,9 @@
     "Twitter",
     "the autopsy club",
     "Sodom",
-    "Google"
+    "Google",
+    "another galaxy",
+    "a black hole",
+    "USSR"
   ]
 }
