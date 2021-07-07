@@ -6,7 +6,7 @@ import json
 # Authenticate to Twitter
 API_Key = ""
 API_Secret_Key = ""
-Access_Token_Key = "-QmA7NdoM18ND9VBruvri8Hz3rAKydu"
+Access_Token_Key = ""
 Secret_Access_Token = ""
 auth = tweepy.OAuthHandler(API_Key, API_Secret_Key)
 auth.set_access_token(Access_Token_Key, Secret_Access_Token)
